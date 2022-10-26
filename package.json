@@ -1,0 +1,27 @@
+{
+  "name": "tya-tech-library",
+  "version": "1.0.0",
+  "description": "tya technologies",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tyatechnologies/tya-tech-library.git"
+  },
+  "keywords": [
+    "tya",
+    "js",
+    "angular",
+    "nebular",
+    "format",
+    "tool"
+  ],
+  "author": "Tya Technologies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyatechnologies/tya-tech-library/issues"
+  },
+  "homepage": "https://github.com/tyatechnologies/tya-tech-library#readme"
+}
